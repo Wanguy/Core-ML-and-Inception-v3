@@ -52,8 +52,6 @@ cd Core-ML-and-Inception-v3
 
 ![Interface](https://github.com/Wanguy/Core-ML-and-Inception-v3/blob/master/Img/Core%20ML.png)
 
-![](https://github.com/Wanguy/Core-ML-and-Inception-v3/blob/master/Img/Screen%20Shot%202017-12-10%20at%2018.21.35.png)
-
  <img src="https://github.com/Wanguy/Core-ML-and-Inception-v3/blob/master/Img/Screen%20Shot%202017-12-10%20at%2018.21.35.png" width = "300" height = "200" alt="img" align=center />
 
 ## Link
