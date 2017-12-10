@@ -123,7 +123,7 @@ extension ViewController: UIImagePickerControllerDelegate {
     
     func choosePhotoFromLibrary() {
         let imagePicker = UIImagePickerController()
-        imagePicker.sourceType = .savedPhotosAlbum
+        imagePicker.sourceType = .photoLibrary
         imagePicker.delegate = self
         imagePicker.allowsEditing = false
         present(imagePicker, animated: true, completion: nil)
