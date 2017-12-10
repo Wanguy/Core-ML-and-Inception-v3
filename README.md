@@ -1,4 +1,4 @@
-![](https://cdn-images-1.medium.com/max/1600/1*OZNZMNqqJYqH-LpNFYKI3w.png)
+<img src="https://cdn-images-1.medium.com/max/1600/1*OZNZMNqqJYqH-LpNFYKI3w.png" style="zoom:80%" />
 
 # Core ML and Machine Vision in iOS 11
 
@@ -39,14 +39,18 @@ To run this project, you need a pre-trained model. I have put a model in this pr
 
 ![](https://cdn-images-1.medium.com/max/1600/1*6agZ1CcGVwiOaX3gNP8cYw.png)
 
-#### Clone it with:
+**Clone it with:**
 
 ```
 git clone git@github.com:Wanguy/Core-ML-and-Inception-v3.git
 cd Core-ML-and-Inception-v3
 ```
 
-#### or manually [download](https://github.com/Wanguy/Core-ML-and-Inception-v3/releases/tag/1.0).
+**or manually [download](https://github.com/Wanguy/Core-ML-and-Inception-v3/releases/tag/1.0).**
+
+### Tutorial
+
+[You can check wiki in here](https://github.com/Wanguy/Core-ML-and-Inception-v3/wiki/Tutorial:-Create-classification).
 
 ## Interface
 
