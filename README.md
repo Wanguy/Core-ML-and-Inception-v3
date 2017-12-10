@@ -10,6 +10,8 @@ It has arrived. With iOS 11, Apple finally introduced a native machine learning
 and machine vision framework. This opens up a whole host of new possibilities,
 promising great leaps forward in apps and games of all natures.
 
+![](https://github.com/Wanguy/Core-ML-and-Inception-v3/blob/master/Img/Screen%20Shot%202017-12-10%20at%2019.10.01.png)
+
 Machine learning solutions have been available for a while in the cloud, but
 these systems require a constant internet connection and oftentimes have a very
 noticiable delay on iOS for obvious reasons. This also creates a security risk
@@ -51,6 +53,8 @@ cd Core-ML-and-Inception-v3
 ![Interface](https://github.com/Wanguy/Core-ML-and-Inception-v3/blob/master/Img/Core%20ML.png)
 
 ![](https://github.com/Wanguy/Core-ML-and-Inception-v3/blob/master/Img/Screen%20Shot%202017-12-10%20at%2018.21.35.png)
+
+ <img src="https://github.com/Wanguy/Core-ML-and-Inception-v3/blob/master/Img/Screen%20Shot%202017-12-10%20at%2018.21.35.png" width = "300" height = "200" alt="img" align=center />
 
 ## Link
 
